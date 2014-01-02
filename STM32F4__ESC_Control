@@ -1,3 +1,4 @@
+//I change the frequency to  50 hz and make 1s pulse. Do not connect the Red wire from ESC, just connect the white and black wire, white wire is the signaling wire. Goes to the PWM output PC6 or P7C 
 /**
   ******************************************************************************
   * @file    TIM_PWM_Output/main.c 
